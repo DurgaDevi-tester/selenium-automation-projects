@@ -1,0 +1,5 @@
+1. https://www.geeksforgeeks.org/selenium-python-tutorial/
+2. https://pythonexamples.org/selenium/
+3. https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+4. https://www.softwaretestinghelp.com/selenium-python-tutorial/
+5. https://www.selenium.dev/documentation/webdriver/getting_started/
