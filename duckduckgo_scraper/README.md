@@ -1,4 +1,3 @@
-Absolutely! Let’s create a polished `README.md` for your **DuckDuckGo Search Automation** project. Here's a clean version you can copy-paste or edit as needed:
 
 ---
 
@@ -68,13 +67,3 @@ Made by Durga Devi
 [GitHub Profile](https://github.com/DurgaDevi-tester)
 
 ---
-```
-
----
-
-Let me know if you want to:
-- Add a screenshot
-- Use emojis or badges
-- Add a section for future improvements or command-line options
-
-Ready to help you polish and upload it! 😊
